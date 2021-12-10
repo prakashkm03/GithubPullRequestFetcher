@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pull request</string>
+    <string name="loading">Please wait...</string>
+    <string name="error_text">Something Went Wrong. Please Try Again.</string>
+    <string name="retry">Retry</string>
+    <string name="successful_text">All Closed Pull Requests</string>
+</resources>
